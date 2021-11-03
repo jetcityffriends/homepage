@@ -16,9 +16,11 @@ body {
     background-color: black;
     position: sticky;
     top: 0;
+    justify-content: center;
 }
 
 #headerImg {
+    margin-top: 19px;
     margin-left: 30px;
     justify-self: center;
 }
@@ -36,5 +38,5 @@ body {
     margin-top: 100px;
     margin-bottom: 100px;
     width: 600px;
-    box-shadow: 0px 0px 100px 20px crimson;
+    box-shadow: 0px 0px 100px 20px rgb(167, 0, 33);
 }
