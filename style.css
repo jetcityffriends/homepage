@@ -27,7 +27,7 @@ body {
 
 #flyer {
     width: 100%;
-    height: 100;
+    height: 100%;
     justify-content: center;
     flex-direction: row;
     background-color: rgb(230, 230, 230);
